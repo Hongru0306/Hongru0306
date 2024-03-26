@@ -1,20 +1,8 @@
-Hello! My ![Visitor Count](https://profile-counter.glitch.me/Hongru0306/count.svg) Visitor.
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Hongru0306&show_icons=true&theme=light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongru0306&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-</div>
 
 ## About Me  
 - 🌱 I'm a graduate student, studying in Tongji university.
 
 - 💬 My research fields are CV, LLM and LMM.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hongru0306/Hongru0306/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hongru0306/Hongru0306/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hongru0306/Hongru0306/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## Interest 👨🏽‍💻
 - NLP : Large Language Model, Prompt Engineering and more things about NLP.
@@ -22,8 +10,6 @@ Hello! My ![Visitor Count](https://profile-counter.glitch.me/Hongru0306/count.sv
 - CV : Object Detection, Pose Estimation/Generation, Text-to-Pose and so on.
 
 - Language : Python, jupyter, Pytorch and Markdown.
-
-- Theory : Voronoi diagram algorithm.
 
 ## Open Source Experience 👯
 
@@ -58,4 +44,8 @@ Hello! My ![Visitor Count](https://profile-counter.glitch.me/Hongru0306/count.sv
 
 ## GitHub Stats 📫
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Hongru0306&show_icons=true&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongru0306&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+</div>
 
