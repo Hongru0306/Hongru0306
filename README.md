@@ -27,9 +27,7 @@
 
 - [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南，Github 1.1k star ~
 
-- [huanhuan-chat](https://github.com/KMnO4-zx/huanhuan-chat.git) : A chat robot based on ChatGLM2 likes Zhenhuan。
-
-- [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers.git) : A chinese tutorial of ChatGPT for Developers, contains three classes of AndrewNg.
+- [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers.git) : A chinese tutorial of ChatGPT for Developers, Github 8.6k star~
 
 - [d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual.git) : The answers to the exercises after class _**Dive into Deep Learning**_. ***动手学深度学习*** 习题解答项目
 
