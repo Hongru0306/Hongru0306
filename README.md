@@ -1,5 +1,6 @@
 
 ## 👋 Hello, I'm Hongru.
+
 ![](https://github-readme-stats.vercel.app/api?username=Hongru0306)
     
 ## About Me  
@@ -30,7 +31,7 @@
 
 - [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers.git) : A chinese tutorial of ChatGPT for Developers, contains three classes of AndrewNg.
 
-- [d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual.git) : The answers to the exercises after class _**Dive into Deep Learning**_. ***动手学深度学习*** 习题解答项目第13章负责人.
+- [d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual.git) : The answers to the exercises after class _**Dive into Deep Learning**_. ***动手学深度学习*** 习题解答项目
 
 - [InternLM-tutorial](https://github.com/InternLM/tutorial.git) ：书生·浦语大模型实战营，助教
 
