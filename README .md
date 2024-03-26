@@ -1,8 +1,9 @@
-<div align="center">
-    <img src="image/readme_file.png">
-</div>
+Hello! My ![Visitor Count](https://profile-counter.glitch.me/Hongru0306/count.svg) Visitor.
 
-My ![Visitor Count](https://profile-counter.glitch.me/Hongru0306/count.svg) Visitor.
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Hongru0306&show_icons=true&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongru0306&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+</div>
 
 ## About Me  
 - 🌱 I'm a graduate student, studying in Tongji university.
@@ -57,7 +58,4 @@ My ![Visitor Count](https://profile-counter.glitch.me/Hongru0306/count.svg) Visi
 
 ## GitHub Stats 📫
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Hongru0306&show_icons=true&theme=light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongru0306&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-</div>
+
