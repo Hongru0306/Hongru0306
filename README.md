@@ -1,4 +1,7 @@
 
+## 👋 Hello, I'm Hongru.
+![](https://github-readme-stats.vercel.app/api?username=Hongru0306)
+    
 ## About Me  
 - 🌱 I'm a graduate student, studying in Tongji university.
 
