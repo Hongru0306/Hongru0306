@@ -46,10 +46,3 @@
 - [科大讯飞算法赛-人岗匹配挑战赛](http://challenge.xfyun.cn/topic/info?type=person-post-matching-2023): NLP competition of iFLYTEK, **Top3**.
 
 
-## GitHub Stats 📫
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Hongru0306&show_icons=true&theme=light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongru0306&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-</div>
-
