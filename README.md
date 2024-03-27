@@ -45,7 +45,8 @@
 
 ## Paper
 - CV object detection and human pose estimation - under review *2 (first author,one is EAAI and another is JKSUCIS)
-- XAI tgt 2024nips\*2 (second author: image proceess interpretion\*1 & first author: LLM interpretion*1)
+- XAI tgt 2024icml\*1 (second author: image proceess interpretion )
+- XAL LLM tgt 2024nips*1 (first author)
 - Text-to-Motion tgt 2024ACM MM*1(first author)
 
 
