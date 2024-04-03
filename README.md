@@ -44,7 +44,7 @@
 - [科大讯飞算法赛-人岗匹配挑战赛](http://challenge.xfyun.cn/topic/info?type=person-post-matching-2023): NLP competition of iFLYTEK, **Top3**.
 
 ## Paper
-- CV object detection and human pose estimation - under review *2 (first author,one is EAAI and another is JKSUCIS)
+- CV object detection and human pose estimation - under review *2 (first author,one is EAAI and another is JKSUCIS)  
 ...
 
 
