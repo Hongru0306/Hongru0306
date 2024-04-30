@@ -19,7 +19,7 @@
 
 **As a manager** ：
 
-- [tiny-universe](https://github.com/datawhalechina/DOPMC/issues/226) : tiny-universe 旨在将LLM"白盒"化,用最简洁的代码实现LLM的加载,预训练,微调,推理,RAG,评测以及Agent全流程.
+- [tiny-universe](https://github.com/datawhalechina/tiny-universe) : tiny-universe 旨在将LLM"白盒"化,用最简洁的代码实现LLM的加载,预训练,微调,推理,RAG,评测以及Agent全流程.
 
 - [AMchat](https://github.com/AXYZdong/AMchat.git) ： AM (Advanced Mathematics) chat 是一个集成了数学知识和高等数学习题及其解答的大语言模型。
 
