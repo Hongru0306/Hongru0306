@@ -24,7 +24,7 @@
 
 **As a member** :
 
-- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **_11.8K+star!!_**《开源大模型食用指南 更适合中国宝宝的大模型部署指南，
+- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **_11.7K+star!!_**《开源大模型食用指南 更适合中国宝宝的大模型部署指南，
 
 - [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers.git) : **_10K+star!!_** A chinese tutorial of ChatGPT for Developers
 
