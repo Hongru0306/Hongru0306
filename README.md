@@ -5,7 +5,7 @@
     
 - 🌱 I'm a graduate student, studying in Tongji university.
 
-- 💬 My research fields are CV, LLM and LMM.
+- 💬 My research fields are CV, LLM and ALM.
 
 ## Interest 👨🏽‍💻
 - NLP : Large Language Model, Prompt Engineering and more things about NLP.
