@@ -8,9 +8,9 @@
 - 💬 My research fields are CV, LLM and ALM.
 
 ## Interest 👨🏽‍💻
-- NLP : Large Language Model, Prompt Engineering and more things about NLP.
+- NLP : LLM, ALM, Speech, RAG, RepE Eng., and more things about NLP.
 
-- CV : Object Detection, Pose Estimation/Generation, Text-to-Pose and so on.
+- CV : Object Detection, Pose Estimation/Generation, Text-to-Motion and so on.
 
 - Language : Python, jupyter, Pytorch and Markdown.
 
